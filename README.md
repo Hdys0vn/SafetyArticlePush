@@ -1,29 +1,33 @@
 ![](https://img.shields.io/badge/python-3.x-brightgreen)
 ![](https://img.shields.io/badge/用途-安全文章企业微信订阅-blue)
 
-:purple_heart: 简介
+## 简介
 
-:rage:平常大家看各类安全文章需要寻找各种安全公众号、论坛、博客，而且不能时时关注到最新发布的文章、业界最新咨讯。
+:rage:平常大家看各类安全文章需要寻找各种安全公众号、论坛、博客，不能时时关注到最新发布的文章、业界最新咨讯。
 
 :smile:该程序通过订阅各大安全公众号、论坛、博客，当他们有新发布的新发布的文章、业界最新咨讯将推动到企业微信的群上，让我们第一时间了解，学习～
 
-
+---
 :bookmark_tabs:RSS订阅源
 
 本程序用的订阅源来自：Chinese-Security-RSS，一共`500+`安全相关订阅源
 ![img.png](image/img.png)
 
 
-
+---
 :warning: 使用
 
 1、企业微信新建一个群，拉俩个即可新建一个群，新建一个机器人
-![img.png](image/img2.png)
+![img.png](image/img7.png)
+
 新建成功后，复制替换WebHook，替换conf/conf.py里的xxx即可
+
 ![img.png](image/img3.png)
 
 由于我个人是新建5个群，方便浏览对应的文章。如果不想新建5个群的，只需要将一个机器的WebHook替换所有的XXXX即可，否则就单独替换
+
 ![img.png](image/img4.png)
+
 2、安装pip库 `python3 -m pip install -r requirement.txt`
 
 3、找一台vps运行 `python3 main.py`
