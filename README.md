@@ -19,21 +19,23 @@
 
 :warning: 使用
 
-1、企业微信新建一个群，拉俩个即可新建一个群，新建一个机器人
+1、企业微信新建一个群，拉俩个人即可新建一个群，新建一个机器人
 ![img.png](image/img2.png)
 
-新建成功后，复制替换WebHook，替换conf/conf.py里的xxx即可
+新建成功后，复制WebHook，替换conf/conf.py里的xxx即可
 
 ![img.png](image/img7.png)
 
-由于我个人是新建5个群，方便浏览对应的文章。如果不想新建5个群的，只需要将一个机器的WebHook替换所有的XXXX即可，否则就单独替换
+由于我个人是新建5个群（安全文章、漏洞复现、漏洞预警、免杀、实战攻防），方便浏览对应的文章。如果不想新建5个群的，只需要将一个机器的WebHook替换所有的XXXX即可，否则就单独替换
 
 ![img.png](image/img4.png)
 
-2、安装pip库 `python3 -m pip install -r requirement.txt`
+2、pip安装python库 `python3 -m pip install -r requirement.txt`
 
-3、找一台vps运行 `python3 main.py`
+3、vps上运行程序 `python3 main.py`
 ![img.png](image/img5.png)
+
+---
 
 :vertical_traffic_light: 后续计划
 
