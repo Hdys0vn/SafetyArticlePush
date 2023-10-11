@@ -1,5 +1,6 @@
 ![](https://img.shields.io/badge/python-3.x-brightgreen)
-![](https://img.shields.io/badge/用途-安全文章企业微信订阅-blue)
+![](https://img.shields.io/badge/function-安全文章企业微信订阅-blue)
+![](https://img.shields.io/badge/author-Shaun-origin)
 
 ## 简介
 
