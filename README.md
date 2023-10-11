@@ -35,6 +35,10 @@
 3、vps上运行程序 `python3 main.py`
 ![img.png](image/img5.png)
 
+4、效果如下：
+
+![img.png](image/img8.png)
+
 ---
 
 :vertical_traffic_light: 后续计划
