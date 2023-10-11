@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head><title>resser.opml</title></head>
+<body>
+<!--    <outline type="rss" text="测试" xmlUrl="https://www.freebuf.com/feed"/>-->
+<!--    <outline type="rss" text="微信公众号" xmlUrl="http://wechat.doonsec.com/rss.xml"/>-->
+        <outline type="rss" text="微信公众号" xmlUrl="http://wechat.doonsec.com/rss.xml"/>
+</body>
+</opml>
